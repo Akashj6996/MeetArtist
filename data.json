@@ -1,0 +1,16 @@
+{
+  "Artist": [
+    {
+      "Role": "Artist",
+      "Name": "df",
+      "Art_Form": "Dance",
+      "Email": "dsf@gmail.com",
+      "Contact_No": "456987",
+      "Address": "dfcdzcc",
+      "Password": "321",
+      "C_Password": "321",
+      "id": 1
+    }
+  ],
+  "User": []
+}
