@@ -97,9 +97,9 @@ input:focus {
 }
 
 .btn-group button:last-child {
-	background-color: rgb(209, 206, 206);
+	background-color: rgb(187, 185, 185);
 }
 
 .btn-group button:last-child:hover {
-	background-color: rgb(187, 185, 185);
+	background-color: rgb(163, 160, 160);
 }
